@@ -20,13 +20,21 @@
         <hr>
         <ul class="nav flex-column">
             <li class="nav-item">
+<<<<<<< HEAD
                 <a class="nav-link a" href="profile.php"><h4 ><i class="fa-solid fa-user fa-flip "></i> Profile</h4></a>
+=======
+                <a class="nav-link a" href="profile.html"><h4 ><i class="fa-solid fa-user fa-flip "></i> Profile</h4></a>
+>>>>>>> 0f7b00e97079eeba504e7e5b7d2167846df839f0
             </li>
             <li class="nav-item">
                 <a class="nav-link active a" aria-current="page" href="staf.php"><h4 ><i class="fa-solid fa-list fa-flip"></i>Staf Lists</h4></a>
             </li>
             <li class="nav-item">
+<<<<<<< HEAD
                 <a class="nav-link a" href="vehicles.php"><h4 ><i class="fa-solid fa-car fa-flip"></i>Vehicles</h4></a>
+=======
+                <a class="nav-link a" href="#"><h4 ><i class="fa-solid fa-car fa-flip"></i>Vehicles</h4></a>
+>>>>>>> 0f7b00e97079eeba504e7e5b7d2167846df839f0
             </li>
             <li class="nav-item">
                 <a class="nav-link a" href="#"><h4 ><i class="fa-solid fa-timeline fa-flip"></i>Vehicle Track</h4></a>
@@ -84,7 +92,11 @@
                 <input  name="email" type="email" class="form-control" id="mail" aria-describedby="emailHelp" placeholder="Enter Mail">
                 <label for="exampleInputPassword1">Age</label>
                 <input  name="age" type="text" class="form-control" id="yas" placeholder="Age">
+<<<<<<< HEAD
                 <button id="ekle" class="btn btn-dark b" type="submit">Insert into the table</button>
+=======
+                <button id="ekle" class="btn btn-dark b" type="submit">Tabloya Ekle</button>
+>>>>>>> 0f7b00e97079eeba504e7e5b7d2167846df839f0
             </div>
         </form>
     </div>

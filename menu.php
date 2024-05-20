@@ -30,7 +30,11 @@
               <a class="nav-link active a" aria-current="page" href="staf.php"><h4 ><i class="fa-solid fa-list fa-flip"></i>Staf Lists</h4></a>
             </li>
             <li class="nav-item">
+<<<<<<< HEAD
               <a class="nav-link a" aria-current="page"  href="vehicles.php"><h4 ><i class="fa-solid fa-car fa-flip"></i>Vehicles</h4></a>
+=======
+              <a class="nav-link a" href="#"><h4 ><i class="fa-solid fa-car fa-flip"></i>Vehicles</h4></a>
+>>>>>>> 0f7b00e97079eeba504e7e5b7d2167846df839f0
             </li>
             
             <li class="nav-item">
